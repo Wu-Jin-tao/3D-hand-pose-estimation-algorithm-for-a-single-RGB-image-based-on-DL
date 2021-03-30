@@ -1,7 +1,4 @@
-# Minimal Hand
-
-A minimal solution to hand motion capture from a single color camera at over 100fps.
-Easy to use, plug to run.
+您好，我叫吴锦涛，我是哈尔滨工业大学的一名研究生，欢迎来到我的仓库，有兴趣可以一起交流，一起用技术改变世界！
 
 ![teaser](teaser.gif)
 
@@ -58,20 +55,3 @@ The detection model is trained with following datasets:
 * [GANerated Hands Dataset](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm)
 
 The IK model is trained with the poses shipped with [MANO](https://mano.is.tue.mpg.de/).
-
-## Citation
-
-This is the official implementation of the paper "Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data" (CVPR 2020).
-
-The quantitative numbers reported in the paper can be found in `plot.py`.
-
-If you find the project helpful, please consider citing us:
-```
-@inproceedings{zhou2020monocular,
-  title={Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data},
-  author={Zhou, Yuxiao and Habermann, Marc and Xu, Weipeng and Habibie, Ikhsanul and Theobalt, Christian and Xu, Feng},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-  pages={0--0},
-  year={2020}
-}
-```
