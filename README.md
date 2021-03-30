@@ -1,8 +1,10 @@
-您好，我叫吴锦涛，我是哈尔滨工业大学的一名研究生，欢迎来到我的仓库，有兴趣可以一起交流，一起用技术改变世界！
+您好，我叫吴锦涛，是一位善于沟通和团队合作的人，从本科开始一直从事于人工智能算法的研究，前端后端都有所涉略，我是哈尔滨工业大学的一名研究生，欢迎来到我的仓库，有兴趣可以一起交流，一起用技术改变世界！
 
-![83](https://user-images.githubusercontent.com/45363047/113019457-38eb0800-91b4-11eb-9bba-c02f2d4713ac.png)
+![QQ截图20210331000314](https://user-images.githubusercontent.com/45363047/113019792-8a939280-91b4-11eb-9982-c6c4f52f5039.jpg)
 
-![teaser](teaser.gif)
+
+
+
 
 This project provides the core components for hand motion capture:
 1. estimating joint **locations** from a monocular RGB image (DetNet)
