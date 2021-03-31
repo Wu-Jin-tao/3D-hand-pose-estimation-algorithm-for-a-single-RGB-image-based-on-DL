@@ -17,9 +17,6 @@ We focus on:
 
 Some links:
 [\[video\]](https://youtu.be/OIRulRoBdL4)
-[\[paper\]](https://calciferzh.github.io/files/zhou2020monocular.pdf)
-[\[supp doc\]](https://calciferzh.github.io/files/zhou2020monocular_supp.pdf)
-[\[webpage\]](https://calciferzh.github.io/publications/zhou2020monocular)
 
 The release of training code is still in progress.
 
