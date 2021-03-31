@@ -15,8 +15,7 @@ We focus on:
 1. time efficiency (on our 1080Ti, 8.9ms for DetNet, 0.9ms for IKNet)
 1. robustness to occlusion, hand-object interaction, fast motion, changing scale and view point
 
-Some links:
-[\[video\]](https://youtu.be/OIRulRoBdL4)
+
 
 The release of training code is still in progress.
 
