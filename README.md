@@ -1,24 +1,5 @@
 算法研究者，前端后端都有所涉略，欢迎来到我的仓库，有兴趣可以一起交流！
-
-
-
-
-
-This project provides the core components for hand motion capture:
-1. estimating joint **locations** from a monocular RGB image (DetNet)
-1. estimating joint **rotations** from locations (IKNet)
-
-We focus on:
-1. ease of use (all you need is a webcam)
-1. time efficiency (on our 1080Ti, 8.9ms for DetNet, 0.9ms for IKNet)
-1. robustness to occlusion, hand-object interaction, fast motion, changing scale and view point
-
-
-
-The release of training code is still in progress.
-
 ## Usage
-
 ### Install dependencies
 Please check `requirements.txt`. All dependencies are available via pip and conda.
 
