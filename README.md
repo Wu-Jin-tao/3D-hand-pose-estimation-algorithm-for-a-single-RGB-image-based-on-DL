@@ -1,4 +1,4 @@
-算法研究者，前端后端都有所涉略，欢迎来到我的仓库，有兴趣可以一起交流！
+发表的TCSVT论文
 ## Usage
 ### Install dependencies
 Please check `requirements.txt`. All dependencies are available via pip and conda.
